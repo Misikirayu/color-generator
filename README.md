@@ -1,3 +1,3 @@
-#### Values JS
+#### color generator! react.js project
 
-[values.js](https://github.com/noeldelgado/values.js)
+
